@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    background-color: #FAEED4;
+    color: #f79e7c;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    text-align: center;
+    font-family: initial;
+    color: rgb(84, 197, 197);
+}
+button{
+    margin: 100px;
+    margin-right: 300px;
+}
